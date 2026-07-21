@@ -244,7 +244,7 @@ Our vision is to become the trusted AI operations platform for nonprofit organiz
 
 **DevOps Engineer | Enterprise AI | Cybersecurity Professional**
 
-MBA • M.S. Business Analytics & Applied AI Candidate
+MBA • M.S. Business Analytics & Applied AI Candidate at the University of Rochester-Simon Business School
 
 Founder, **Nonprofit Intelligence AI**
 
