@@ -234,7 +234,7 @@ The MVP validates the concept while serving as the foundation for future enterpr
 
 # Project Vision
 
-Our vision is to become the trusted AI operations platform for nonprofit organizations by helping them work smarter, make informed decisions faster, and maximize their mission impact through responsible, secure, and accessible artificial intelligence.
+My vision is to become the trusted AI operations platform for nonprofit organizations by helping them work smarter, make informed decisions faster, and maximize their mission impact through responsible, secure, and accessible artificial intelligence.
 
 ---
 
