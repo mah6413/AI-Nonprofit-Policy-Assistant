@@ -193,27 +193,75 @@ The MVP validates the concept while serving as the foundation for future enterpr
 
 # Future Roadmap
 
-## Enterprise Azure Platform
+## 🚀 Future Roadmap: AWS-Powered Commercial SaaS Platform
 
-- Azure OpenAI
-- Azure AI Search
-- Azure Blob Storage
-- Azure App Service
-- Microsoft Entra ID Authentication
+Mission Document Intelligence AI, LLC (MDI AI) is planning the evolution of its existing Streamlit-based AI Nonprofit Document Assistant into a secure, scalable, multi-tenant Software-as-a-Service (SaaS) platform hosted on **Amazon Web Services (AWS)**.
 
-## Enterprise Features
+MDI AI is collaborating with **an AWS Premier Tier Services Partner**, to evaluate a phased cloud development strategy and pursue potential AWS funding support, subject to approval.
 
-- Multi-user authentication
-- Organization workspaces
-- SharePoint integration
-- Google Drive integration
-- OneDrive integration
-- Document version control
-- Approval workflows
-- Analytics dashboard
-- Usage reporting
-- AI-powered document recommendations
+The proposed development roadmap consists of three phases:
 
+### Phase 1: Technical Assessment & AWS Proof of Concept (POC)
+
+Evaluate the existing Python/Streamlit application and establish the technical foundation for an AWS-native architecture.
+
+**Planned capabilities:**
+- Assess existing document ingestion, retrieval-augmented generation (RAG), summarization, and template-generation workflows.
+- Evaluate **Amazon Bedrock** for managed foundation model inference.
+- Explore **Amazon Bedrock Knowledge Bases** for document indexing, semantic retrieval, and source-grounded responses.
+- Evaluate **Amazon Bedrock Guardrails** for AI safety and responsible model interactions.
+- Develop an initial AWS proof of concept demonstrating core document intelligence functionality.
+- Assess infrastructure deployment using **Terraform**.
+
+### Phase 2: Secure Functional SaaS Pilot
+
+Develop a secure, cloud-hosted application suitable for controlled nonprofit pilot deployments.
+
+**Planned capabilities:**
+- Implement authenticated nonprofit organizational workspaces.
+- Establish tenant isolation to protect each nonprofit's documents and AI interactions.
+- Introduce persistent document storage, indexing, and retrieval using appropriate AWS services.
+- Support document uploads, AI-powered Q&A, summarization, source citations, and selected nonprofit document templates.
+- Evaluate **Amazon Bedrock AgentCore** for orchestration of advanced AI workflows where appropriate.
+- Implement foundational security controls, logging, monitoring, and document deletion workflows.
+- Conduct functional, security, and user acceptance testing.
+
+### Phase 3: Commercial SaaS Expansion
+
+Expand the validated pilot application into a subscription-based AI document intelligence platform for nonprofit organizations.
+
+**Planned capabilities:**
+- Introduce subscription billing, service tiers, and usage enforcement.
+- Expand and validate the library of 80+ nonprofit document templates.
+- Develop integrations with external document repositories, including Microsoft SharePoint, OneDrive, and Google Drive.
+- Enhance organization administration, user permissions, and document management.
+- Expand AI-assisted document workflows and explore agentic capabilities through Amazon Bedrock services.
+- Improve operational monitoring, scalability, deployment automation, and production readiness.
+- Prepare the platform for broader commercial adoption by nonprofit organizations.
+
+### ☁️ Proposed AWS Technology Stack
+
+| AWS Technology | Proposed Function |
+|---|---|
+| Amazon Bedrock | Managed generative AI model inference |
+| Amazon Bedrock Knowledge Bases | RAG-based document retrieval and grounding |
+| Amazon Bedrock Guardrails | AI safety and content safeguards |
+| Amazon Bedrock AgentCore | Potential orchestration of advanced AI workflows |
+| Amazon S3 | Durable document and object storage |
+| AWS IAM | Cloud resource access controls |
+| Amazon CloudWatch | Application logging and operational monitoring |
+| AWS Secrets Manager | Secure management of application secrets |
+| Terraform | Infrastructure as Code and repeatable cloud deployments |
+
+Additional AWS services for authentication, compute, networking, search, and billing integration will be selected during technical architecture assessment.
+
+### 🎯 Long-Term Vision
+
+MDI AI aims to make enterprise-grade AI document intelligence accessible to small and mid-sized nonprofit organizations without requiring extensive technical infrastructure or dedicated AI engineering teams.
+
+The long-term goal is to provide a secure, subscription-based platform that helps nonprofits improve operational efficiency, streamline document preparation, retrieve institutional knowledge, and devote more resources to their missions.
+
+**Development Status:** The existing Streamlit application serves as the functional MVP. The AWS architecture, implementation scope, development phases, and potential funding remain under evaluation with nClouds and are subject to final technical assessment, contractual agreement, and AWS funding approval.
 ---
 
 # Target Users
