@@ -261,7 +261,7 @@ MDI AI aims to make enterprise-grade AI document intelligence accessible to smal
 
 The long-term goal is to provide a secure, subscription-based platform that helps nonprofits improve operational efficiency, streamline document preparation, retrieve institutional knowledge, and devote more resources to their missions.
 
-**Development Status:** The existing Streamlit application serves as the functional MVP. The AWS architecture, implementation scope, development phases, and potential funding remain under evaluation with nClouds and are subject to final technical assessment, contractual agreement, and AWS funding approval.
+**Development Status:** The existing Streamlit application serves as the functional MVP. The AWS architecture, implementation scope, development phases, and potential funding remain under evaluation with the AWS Premier Partner Services Partner and are subject to final technical assessment, contractual agreement, and AWS funding approval.
 ---
 
 # Target Users
