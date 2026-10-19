@@ -246,7 +246,7 @@ My vision is to become the trusted AI operations platform for nonprofit organiza
 
 MBA • M.S. Business Analytics & Applied AI Candidate at the University of Rochester-Simon Business School
 
-Founder, **Nonprofit Intelligence AI**
+Founder, **Mission Document Intelligence AI**
 
 ---
 
